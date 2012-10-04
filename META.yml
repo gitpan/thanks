@@ -29,4 +29,4 @@ resources:
   homepage: https://metacpan.org/release/thanks
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-thanks
-version: 0.001
+version: 0.002

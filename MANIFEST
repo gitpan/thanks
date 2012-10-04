@@ -1,4 +1,5 @@
 Changes
+HACKING
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
@@ -31,4 +32,5 @@ README
 t/01basic.t
 t/02explicit.t
 t/03implicit.t
+t/04apostrophes.t
 SIGNATURE                                Public-key signature (added by MakeMaker)
